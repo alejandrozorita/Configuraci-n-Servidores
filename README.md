@@ -26,3 +26,9 @@ Generar https://technicalseo.com/seo-tools/schema-markup-generator/
   ExpiresByType image/x-icon "access 1 year"
   ExpiresDefault "access plus 1 month"
 </IfModule>
+
+## Direción IP Servidor
+La dirección IP del servidor, o apunta al dominio del servidor o a ningún lado.
+
+## Headers
+Elimianr Powered by" de Plesk y de la versión PHP
