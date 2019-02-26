@@ -32,3 +32,11 @@ La dirección IP del servidor, o apunta al dominio del servidor o a ningún lado
 
 ## Headers
 Elimianr Powered by" de Plesk y de la versión PHP
+
+## Servidor
+### Activar compresión
+Activar el módulo mod_deflate para comprimir la respuesta del servidor
+- https://support.plesk.com/hc/en-us/articles/115000716649-How-to-enable-gzip-compression-in-Apache-on-Plesk-server-
+- https://www.techrepublic.com/article/how-to-configure-apache-moddeflate-to-enhance-web-server-performance/
+- https://www.techrepublic.com/article/how-to-configure-apache-moddeflate-to-enhance-web-server-performance/
+- https://developers.google.com/speed/webp/
